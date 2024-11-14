@@ -1,0 +1,6 @@
+<nav>
+{% for item in site.data.navigation %}
+<a href="{{ item.link }}" {% if page.url == item.link %}class="linkcurrentpage"{% endif %}>{{item.name}}</a>
+&ensp; {% if item.last == 0 %} | &ensp; {% endif %}
+{% endfor %}
+</nav>

@@ -1,0 +1,9 @@
+- name: About Me
+  link: /
+  last: 0
+- name: Publications
+  link: /publications.html
+  last: 0
+- name: Teaching
+  link: /teaching.html
+  last: 1
