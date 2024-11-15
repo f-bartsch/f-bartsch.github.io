@@ -11,6 +11,6 @@ My research interests lie in algebraic geometry, with a focus on questions relat
 **Contact Information**
 
 *E-Mail*: f \[dot\] bartsch \[at\] math \[dot\] ru \[dot\] nl    
-*Visiting address*: Office HG03.085, Huygensgebouw, Heyendaalseweg 135, 6525 AJ Nijmegen
+*Visiting address*: Office HG03.084, Huygensgebouw, Heyendaalseweg 135, 6525 AJ Nijmegen
 
 [ari]: https://sites.google.com/view/ariyanjavanpeykar/home
