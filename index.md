@@ -14,3 +14,4 @@ My research interests lie in algebraic geometry, with a focus on questions relat
 *Visiting address*: Office HG03.084, Huygensgebouw, Heyendaalseweg 135, 6525 AJ Nijmegen
 
 [ari]: https://sites.google.com/view/ariyanjavanpeykar/home
+[CVlink]: /CV.pdf
