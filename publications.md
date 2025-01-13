@@ -4,21 +4,24 @@ title: Finn Bartsch
 header: Publications
 ---
 
-
-97. The Weakly Special Conjecture contradicts orbifold Mordell, and thus abc (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc])   
+0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing])     
 *Submitted.*
 
-98. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
+0. The Weakly Special Conjecture contradicts orbifold Mordell, and thus abc (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc])   
+*Submitted.*
+
+0. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
 ***Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre**, to appear*
 
-99. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds])    
+0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds])    
 *Submitted.*
 
-100. Kobayashi-Ochiai's finiteness theorem for orbifold pairs of general type (joint with Ariyan Javanpeykar). ([arxiv][arxiv-orbifoldko], [published version][published-orbifoldko])    
+0. Kobayashi-Ochiai's finiteness theorem for orbifold pairs of general type (joint with Ariyan Javanpeykar). ([arxiv][arxiv-orbifoldko], [published version][published-orbifoldko])    
 ***Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)***
+{: reversed="reversed"}
 
 
-
+[arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
 [arxiv-btthreefolds]: https://arxiv.org/abs/2310.09065
 [arxiv-parshin]: https://arxiv.org/abs/2407.10706
