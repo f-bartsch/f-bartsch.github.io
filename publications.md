@@ -4,6 +4,12 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties])
+*Submitted.*
+
+0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial])
+*Submitted.*
+
 0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing])     
 *Submitted.*
 
@@ -20,7 +26,8 @@ header: Publications
 ***Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)***
 {: reversed="reversed"}
 
-
+[arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
+[arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
 [arxiv-btthreefolds]: https://arxiv.org/abs/2310.09065
