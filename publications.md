@@ -17,13 +17,13 @@ header: Publications
 *Submitted.*
 
 0. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
-***Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre**, to appear*
+*Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre, to appear*
 
 0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds])    
 *Submitted.*
 
 0. Kobayashi-Ochiai's finiteness theorem for orbifold pairs of general type (joint with Ariyan Javanpeykar). ([arxiv][arxiv-orbifoldko], [published version][published-orbifoldko])    
-***Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)***
+*Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)*
 {: reversed="reversed"}
 
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414

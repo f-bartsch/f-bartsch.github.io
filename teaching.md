@@ -5,6 +5,7 @@ header: Teaching
 ---
 
 Teaching assistant positions:
+- Spring 2025: Riemann Surfaces, Mastermath Course (Nijmegen)
 - Autumn 2024: Sheaves and Geometry (Nijmegen)
 - Spring 2024: Riemann Surfaces, Mastermath Course (Nijmegen)
 - Autumn 2023: Galois Theory (Nijmegen)
