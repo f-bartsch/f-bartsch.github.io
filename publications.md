@@ -4,8 +4,8 @@ title: Finn Bartsch
 header: Publications
 ---
 
-0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties])      
-*Submitted.*
+0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
+*Bulletin of the London Mathematical Society, to appear*
 
 0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial])      
 *Submitted.*
@@ -27,6 +27,7 @@ header: Publications
 {: reversed="reversed"}
 
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
+[published-abelianvarieties]: https://doi.org/10.1112/blms.70119
 [arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
