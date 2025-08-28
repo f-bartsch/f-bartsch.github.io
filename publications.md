@@ -4,7 +4,7 @@ title: Finn Bartsch
 header: Publications
 ---
 
-0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal])
+0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal])         
 *Submitted.*
 
 0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
