@@ -4,6 +4,9 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal])
+*Submitted.*
+
 0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
 *Bulletin of the London Mathematical Society, to appear*
 
@@ -26,6 +29,8 @@ header: Publications
 *Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)*
 {: reversed="reversed"}
 
+
+[arxiv-kobayashilogterminal]: https://arxiv.org/abs/2507.01656
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
 [published-abelianvarieties]: https://doi.org/10.1112/blms.70119
 [arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
