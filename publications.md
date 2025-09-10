@@ -8,7 +8,7 @@ header: Publications
 *Submitted.*
 
 0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
-*Bulletin of the London Mathematical Society, to appear*
+*Bulletin of the London Mathematical Society, Volume 57(9), pp. 2723-2730 (2025)*
 
 0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial])      
 *Submitted.*
