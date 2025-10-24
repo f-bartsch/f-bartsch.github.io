@@ -23,7 +23,7 @@ header: Publications
 *Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre, to appear*
 
 0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds])    
-*Submitted.*
+*Journal of the London Mathematical Society, to appear*
 
 0. Kobayashi-Ochiai's finiteness theorem for orbifold pairs of general type (joint with Ariyan Javanpeykar). ([arxiv][arxiv-orbifoldko], [published version][published-orbifoldko])    
 *Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)*
