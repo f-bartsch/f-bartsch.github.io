@@ -14,7 +14,7 @@ header: Publications
 *Submitted.*
 
 0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing])     
-*Submitted.*
+*Proceedings of the London Mathematical Society, to appear*
 
 0. The Weakly Special Conjecture contradicts orbifold Mordell, and thus abc (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc])   
 *Submitted.*
