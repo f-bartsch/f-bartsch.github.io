@@ -22,8 +22,8 @@ header: Publications
 0. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
 *Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre, to appear*
 
-0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds])    
-*Journal of the London Mathematical Society, to appear*
+0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds], [published version][published-btthreefolds])    
+*Journal of the London Mathematical Society, Volume 112, Issue 5 (2025)*
 
 0. Kobayashi-Ochiai's finiteness theorem for orbifold pairs of general type (joint with Ariyan Javanpeykar). ([arxiv][arxiv-orbifoldko], [published version][published-orbifoldko])    
 *Journal of the Institute of Mathematics of Jussieu, Volume 23(6), pp. 2713-2732 (2024)*
@@ -37,6 +37,7 @@ header: Publications
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
 [arxiv-btthreefolds]: https://arxiv.org/abs/2310.09065
+[published-btthreefolds]: https://doi.org/10.1112/jlms.70348
 [arxiv-parshin]: https://arxiv.org/abs/2407.10706
 [published-parshin]: https://doi.org/10.1016/j.indag.2024.10.005
 [arxiv-orbifoldko]: https://arxiv.org/abs/2306.09123
