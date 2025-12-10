@@ -4,6 +4,9 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. More counterexamples to the Arithmetic Puncturing Problem ([arxiv][arxiv-puncturing2])       
+*Submitted.*
+
 0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal])         
 *Submitted.*
 
@@ -30,6 +33,7 @@ header: Publications
 {: reversed="reversed"}
 
 
+[arxiv-puncturing2]: https://arxiv.org/abs/2512.05345
 [arxiv-kobayashilogterminal]: https://arxiv.org/abs/2507.01656
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
 [published-abelianvarieties]: https://doi.org/10.1112/blms.70119
