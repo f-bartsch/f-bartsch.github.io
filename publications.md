@@ -16,8 +16,8 @@ header: Publications
 0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial])      
 *Submitted.*
 
-0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing])     
-*Proceedings of the London Mathematical Society, to appear*
+0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing], [published version][published-puncturing])     
+*Proceedings of the London Mathematical Society, Volume 131, Issue 6 (2025)*
 
 0. The Weakly Special Conjecture contradicts orbifold Mordell, and thus abc (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc])   
 *Submitted.*
@@ -39,6 +39,7 @@ header: Publications
 [published-abelianvarieties]: https://doi.org/10.1112/blms.70119
 [arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
+[published-puncturing]: https://doi.org/10.1112/plms.70108
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
 [arxiv-btthreefolds]: https://arxiv.org/abs/2310.09065
 [published-btthreefolds]: https://doi.org/10.1112/jlms.70348
