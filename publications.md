@@ -23,7 +23,7 @@ header: Publications
 *Submitted.*
 
 0. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
-*Indagationes Mathematicae, Special issue dedicated to the memory of Jacob Murre, to appear*
+*Indagationes Mathematicae, Volume 37, Issue 1 (Special issue dedicated to the memory of Jacob Murre), pp. 271-280 (2026)*
 
 0. Weakly-special threefolds and non-density of rational points (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-btthreefolds], [published version][published-btthreefolds])    
 *Journal of the London Mathematical Society, Volume 112, Issue 5 (2025)*
