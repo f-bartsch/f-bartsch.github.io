@@ -4,6 +4,9 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. The theorem of Maehara-Severi for maps of general type (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-severi])  
+*Submitted.*
+
 0. More counterexamples to the Arithmetic Puncturing Problem ([arxiv][arxiv-puncturing2])       
 *Submitted.*
 
@@ -33,6 +36,7 @@ header: Publications
 {: reversed="reversed"}
 
 
+[arxiv-severi]: https://arxiv.org/abs/2602.02314
 [arxiv-puncturing2]: https://arxiv.org/abs/2512.05345
 [arxiv-kobayashilogterminal]: https://arxiv.org/abs/2507.01656
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
