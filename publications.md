@@ -22,8 +22,8 @@ header: Publications
 0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing], [published version][published-puncturing])     
 *Proceedings of the London Mathematical Society, Volume 131, Issue 6 (2025)*
 
-0. The Weakly Special Conjecture contradicts orbifold Mordell, and thus abc (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc])   
-*Submitted.*
+0. The Weakly Special Conjecture contradicts Orbifold Mordell, and hence the abc conjecture (joint with Frédéric Campana, Ariyan Javanpeykar, and Olivier Wittenberg). ([arxiv][arxiv-abc], [published version][published-abc])   
+*Journal of the European Mathematical Society (2026)*
 
 0. Parshin's method and the geometric Bombieri-Lang conjecture (joint with Ariyan Javanpeykar). ([arxiv][arxiv-parshin], [published version][published-parshin])   
 *Indagationes Mathematicae, Volume 37, Issue 1 (Special issue dedicated to the memory of Jacob Murre), pp. 271-280 (2026)*
@@ -45,6 +45,7 @@ header: Publications
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [published-puncturing]: https://doi.org/10.1112/plms.70108
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
+[published-abc]: https://doi.org/10.4171/jems/1772
 [arxiv-btthreefolds]: https://arxiv.org/abs/2310.09065
 [published-btthreefolds]: https://doi.org/10.1112/jlms.70348
 [arxiv-parshin]: https://arxiv.org/abs/2407.10706
