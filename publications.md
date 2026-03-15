@@ -4,6 +4,9 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. The map to the orbifold base need not be an orbifold map ([arxiv][arxiv-orbifoldbasenotorbifold])   
+*Submitted.*
+
 0. The theorem of Maehara-Severi for maps of general type (joint with Ariyan Javanpeykar and Erwan Rousseau). ([arxiv][arxiv-severi])  
 *Submitted.*
 
@@ -36,6 +39,7 @@ header: Publications
 {: reversed="reversed"}
 
 
+[arxiv-orbifoldbasenotorbifold]: https://arxiv.org/abs/2603.06083
 [arxiv-severi]: https://arxiv.org/abs/2602.02314
 [arxiv-puncturing2]: https://arxiv.org/abs/2512.05345
 [arxiv-kobayashilogterminal]: https://arxiv.org/abs/2507.01656
