@@ -19,8 +19,8 @@ header: Publications
 0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
 *Bulletin of the London Mathematical Society, Volume 57(9), pp. 2723-2730 (2025)*
 
-0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial])      
-*Submitted.*
+0. New examples of geometrically special varieties: K3 surfaces, Enriques surfaces, and algebraic groups ([arxiv][arxiv-geomspecial], [published version][published-geomspecial])      
+*manuscripta mathematica, Volume 177, article number 31 (2026)*
 
 0. Symmetric products and puncturing Campana-special varieties (joint with Ariyan Javanpeykar and Aaron Levin). ([arxiv][arxiv-puncturing], [published version][published-puncturing])     
 *Proceedings of the London Mathematical Society, Volume 131, Issue 6 (2025)*
@@ -46,6 +46,7 @@ header: Publications
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
 [published-abelianvarieties]: https://doi.org/10.1112/blms.70119
 [arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
+[published-geomspecial]: https://doi.org/10.1007/s00229-026-01709-3
 [arxiv-puncturing]: https://arxiv.org/abs/2412.14931
 [published-puncturing]: https://doi.org/10.1112/plms.70108
 [arxiv-abc]: https://arxiv.org/abs/2410.06643
