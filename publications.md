@@ -4,6 +4,9 @@ title: Finn Bartsch
 header: Publications
 ---
 
+0. Weakly special varieties, Campana stacks, and Remarks on Orbifold Mordell (joint with Ariyan Javanpeykar). ([arxiv][arxiv-campanastacks])    
+*Submitted.*
+
 0. The map to the orbifold base need not be an orbifold map ([arxiv][arxiv-orbifoldbasenotorbifold])   
 *Submitted.*
 
@@ -39,6 +42,7 @@ header: Publications
 {: reversed="reversed"}
 
 
+[arxiv-campanastacks]: https://arxiv.org/abs/2603.28745
 [arxiv-orbifoldbasenotorbifold]: https://arxiv.org/abs/2603.06083
 [arxiv-severi]: https://arxiv.org/abs/2602.02314
 [arxiv-puncturing2]: https://arxiv.org/abs/2512.05345
