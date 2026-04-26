@@ -16,8 +16,8 @@ header: Publications
 0. More counterexamples to the Arithmetic Puncturing Problem ([arxiv][arxiv-puncturing2])       
 *Submitted.*
 
-0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal])         
-*Submitted.*
+0. The Kobayashi pseudometric in the presence of log-terminal singularities ([arxiv][arxiv-kobayashilogterminal], [published version][published-kobayashilogterminal])         
+*Proceedings of the American Mathematical Society, Volume 154, Number 5, pp. 2141-2144 (2026)*
 
 0. On the finiteness of maps into simple abelian varieties satisfying certain tangency conditions ([arxiv][arxiv-abelianvarieties], [published version][published-abelianvarieties])      
 *Bulletin of the London Mathematical Society, Volume 57(9), pp. 2723-2730 (2025)*
@@ -47,6 +47,7 @@ header: Publications
 [arxiv-severi]: https://arxiv.org/abs/2602.02314
 [arxiv-puncturing2]: https://arxiv.org/abs/2512.05345
 [arxiv-kobayashilogterminal]: https://arxiv.org/abs/2507.01656
+[published-kobayashilogterminal]: https://doi.org/10.1090/proc/17645
 [arxiv-abelianvarieties]: https://arxiv.org/abs/2502.09414
 [published-abelianvarieties]: https://doi.org/10.1112/blms.70119
 [arxiv-geomspecial]: https://arxiv.org/abs/2502.09400
